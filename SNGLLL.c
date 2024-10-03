@@ -338,23 +338,6 @@ void UpdateNode()
     }
     tmp->val=value;
 }
-// void PrintClockwise() {
-//     if(start == NULL && last == NULL)
-//     {
-//         printf("The list is totally empty...\nThere is nothing to print");
-//         return;
-//     }
-//     int choice,cnt=0;
-      
-//     printf("Enter how many time you want to print the list. ");
-//     scanf("%d", &choice);
-//     for(int i =0;i<) {
-//         for(int j =0;j< CountNode(); )
-//     }
-// }
-
-    
-// }
 void PrintReverse(N *ptr)
 {
     if(ptr == NULL) return;
