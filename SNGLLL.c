@@ -23,7 +23,6 @@ void DeletePrime();
 void DeleteArmstrong();
 void CountNode();
 void UpdateNode();
-void Printclockwise();
 void PrintReverse(N *ptr);
 void PrintNode();
 
